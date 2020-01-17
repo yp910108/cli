@@ -1,0 +1,24 @@
+{
+  "name": "yuanp-cli",
+  "version": "1.0.3",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "ycli": "./bin/cli"
+  },
+  "keywords": [],
+  "author": "yp",
+  "license": "ISC",
+  "dependencies": {
+    "build-tpl": "0.0.2",
+    "chalk": "^3.0.0",
+    "inquirer": "^7.0.3",
+    "minimist": "^1.2.0",
+    "mkdirp": "^0.5.1",
+    "osenv": "^0.1.5",
+    "yeoman-environment": "^2.7.0"
+  }
+}

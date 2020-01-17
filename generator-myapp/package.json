@@ -1,0 +1,17 @@
+{
+  "name": "generator-myapp",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "files": [
+    "generators"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "^4.4.0"
+  }
+}
